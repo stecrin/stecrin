@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" alt="Stefan Cringusi Banner">
+</p>
+
 # Hi, I'm Stefan Cringusi
 
 Founder of CrinGlobal LTD and a technology professional focused on infrastructure, cybersecurity, Linux systems, networking, automation, and practical IT solutions.
