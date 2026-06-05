@@ -22,6 +22,12 @@ A structured AI-assisted development framework designed to improve software deli
 
 ---
 
+## [MomentumBoard](https://github.com/stecrin/momentumboard)
+
+A local-first productivity and job-application dashboard for daily planning, task organisation, job tracking, duplicate detection, and local JSON backups.
+
+---
+
 ## [macOS VPN Network Reset](https://github.com/stecrin/macos-vpn-network-reset)
 
 A practical recovery utility designed to diagnose and repair VPN, DNS, routing, and connectivity issues on macOS systems.
