@@ -2,15 +2,6 @@
 
 Founder of CrinGlobal LTD and a technology professional focused on infrastructure, cybersecurity, Linux systems, networking, automation, and practical IT solutions.
 
-## Areas of Focus
-
-* Infrastructure & Systems Administration
-* Cybersecurity & Risk Reduction
-* Linux & Server Management
-* Networking & Troubleshooting
-* Secure Automation & AI-Assisted Workflows
-* Small Business IT Solutions
-
 ## Featured Projects
 
 ### LegionTrap TI
@@ -24,6 +15,15 @@ A structured AI-assisted development framework designed to improve software deli
 ### macOS VPN Network Reset
 
 A practical recovery utility designed to diagnose and repair VPN, DNS, routing, and connectivity issues on macOS systems.
+
+## Areas of Focus
+
+* Infrastructure & Systems Administration
+* Cybersecurity & Risk Reduction
+* Linux & Server Management
+* Networking & Troubleshooting
+* Secure Automation & AI-Assisted Workflows
+* Small Business IT Solutions
 
 ## Professional Background
 
@@ -55,4 +55,3 @@ Website: https://stefancringusi.com
 LinkedIn: https://linkedin.com/in/stefan-cringusi
 
 Company: https://cringlobal.com
-
